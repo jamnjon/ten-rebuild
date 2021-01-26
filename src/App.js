@@ -44,7 +44,7 @@ handleLogout = () => {
 render() {
     return (
       <div>
-        <BrowserRouter>
+        <BrowserRouter basename="/ten-rebuild">
           <Switch>
             <Route
               exact path='/'
