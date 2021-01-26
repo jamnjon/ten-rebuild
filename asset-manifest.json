@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/ten-rebuild/static/js/main.6de997fa.chunk.js",
+    "main.js.map": "/ten-rebuild/static/js/main.6de997fa.chunk.js.map",
+    "runtime-main.js": "/ten-rebuild/static/js/runtime-main.3883e65e.js",
+    "runtime-main.js.map": "/ten-rebuild/static/js/runtime-main.3883e65e.js.map",
+    "static/js/2.38aff85f.chunk.js": "/ten-rebuild/static/js/2.38aff85f.chunk.js",
+    "static/js/2.38aff85f.chunk.js.map": "/ten-rebuild/static/js/2.38aff85f.chunk.js.map",
+    "index.html": "/ten-rebuild/index.html",
+    "static/js/2.38aff85f.chunk.js.LICENSE.txt": "/ten-rebuild/static/js/2.38aff85f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3883e65e.js",
+    "static/js/2.38aff85f.chunk.js",
+    "static/js/main.6de997fa.chunk.js"
+  ]
+}
